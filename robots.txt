@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osynater.github.io/sitemap.html.gz
+Sitemap: https://osynater.github.io/app/sitemap.html.gz
+Sitemap: https://osynater.github.io/assets/sitemap.html.gz
+Sitemap: https://osynater.github.io/css/sitemap.html.gz
+Sitemap: https://osynater.github.io/includes/sitemap.html.gz
+Sitemap: https://osynater.github.io/item/sitemap.html.gz
+Sitemap: https://osynater.github.io/src/sitemap.html.gz
